@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\AverageNumber\bin\Debug\AverageNumber.exe.config
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\AverageNumber\bin\Debug\AverageNumber.exe
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\AverageNumber\bin\Debug\AverageNumber.pdb
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\AverageNumber\obj\Debug\AverageNumber.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\AverageNumber\obj\Debug\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\AverageNumber\obj\Debug\AverageNumber.exe
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\AverageNumber\obj\Debug\AverageNumber.pdb

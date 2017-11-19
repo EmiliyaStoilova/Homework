@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\CircleArea\bin\Debug\CircleArea.exe.config
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\CircleArea\bin\Debug\CircleArea.exe
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\CircleArea\bin\Debug\CircleArea.pdb
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\CircleArea\obj\Debug\CircleArea.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\CircleArea\obj\Debug\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\CircleArea\obj\Debug\CircleArea.exe
+C:\Users\USER\Desktop\Емилия\СТД 2017\Упр. Програмиране\Контролна 1\STD-EmiliyaStoilova-1701681067-H8\CircleArea\obj\Debug\CircleArea.pdb
